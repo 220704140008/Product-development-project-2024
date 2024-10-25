@@ -1,0 +1,20 @@
+@import "./../../../assets/scss/TravelNook-variables";
+
+.footer {
+  background-color: #590d22;
+  font-size: 0.875rem; /* equivalent to text-sm */
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d3d3d3; /* replace with your desired border color */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1.25rem 1.5rem;
+  color: #F2e9e4;
+}
+
+fa-icon {
+  margin-left: 10px;
+  font-size: 3px;
+  margin-right: 10px;
+}
